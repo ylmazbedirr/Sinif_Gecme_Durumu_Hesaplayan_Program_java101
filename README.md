@@ -1,0 +1,1 @@
+# Sinif_Gecme_Durumu_Hesaplayan_Program
